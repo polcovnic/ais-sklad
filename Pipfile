@@ -10,6 +10,8 @@ pydantic = "*"
 flask-pydantic = "*"
 flask-jwt-extended = "*"
 python-dateutil = "*"
+uwsgi = "*"
+psycopg2 = '*'
 
 [dev-packages]
 
